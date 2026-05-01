@@ -7,6 +7,8 @@ Este projeto abre um formulário do Google Forms no Chrome, seleciona várias op
 
 > Atenção: este projeto é destinado apenas a fins educacionais. Envio massivo de formulários pode violar termos de uso do Google Forms e ser bloqueado.
 
+https://github.com/user-attachments/assets/3f626926-b360-437a-8019-ebcddcca8c81
+
 ## ✅ Funcionalidades
 - Preenchimento automático de opções específicas (select)
 - Envio automático do formulário
