@@ -21,27 +21,27 @@ Este projeto abre um formulário do Google Forms no Chrome, seleciona várias op
 
 ## 📦 Instalação
 1. Clone este repositório:
-\`\`\`bash
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd votando-no-ovo
-\`\`\`
+```
 2. Instale as dependências:
-\`\`\`bash
+```bash
 uv add selenium python-dotenv webdriver-manager
-\`\`\`
+```
 
 ## ⚙️ Configuração
 Crie um arquivo `.env` na raiz do projeto com a URL do formulário:
-\`\`\`ini
+```ini
 FORM_URL=https://docs.google.com/forms/d/e/SEU_FORM_AQUI/viewform
-\`\`\`
+```
 
 Inclua `.env` no `.gitignore` para não versionar dados sensíveis.
 
 ## ▶️ Como executar
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 ## ⚠️ Observações importantes
 - IDs de elementos do Google Forms como `i6`, `i35`, etc. podem mudar com o tempo.
