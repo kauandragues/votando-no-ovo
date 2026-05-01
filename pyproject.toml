@@ -1,7 +1,7 @@
 [project]
 name = "votando-no-ovo"
 version = "0.1.0"
-description = "Add your description here"
+description = "Automatização do preenchimento e envio de um formulário de votação livre usando Python, Selenium e WebDriver Manager. "
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
