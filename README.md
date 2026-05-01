@@ -5,9 +5,9 @@ Automatiza o preenchimento e envio de um formulário de votação livre do Googl
 ## 🚀 Visão geral
 Este projeto abre um formulário do Google Forms no Chrome, seleciona várias opções pré-definidas, envia o formulário e repete o processo em loop para múltiplos envios.
 
-> Atenção: este projeto é destinado apenas a fins educacionais. Envio massivo de formulários pode violar termos de uso do Google Forms e ser bloqueado.
+<img width="1025" height="949" alt="Animao1-ezgif com-optimize" src="https://github.com/user-attachments/assets/7bb7a598-c84b-4734-b303-c83bebe6402f" />
 
-https://github.com/user-attachments/assets/3f626926-b360-437a-8019-ebcddcca8c81
+> Atenção: este projeto é destinado apenas a fins educacionais. Envio massivo de formulários pode violar termos de uso do Google Forms e ser bloqueado.
 
 ## ✅ Funcionalidades
 - Preenchimento automático de opções específicas (select)
